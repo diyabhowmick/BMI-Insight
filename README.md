@@ -10,8 +10,21 @@ Additional Information: Provides supplementary information such as BMI Prime and
 Progress Bar: Visual representation of BMI within a healthy range.
 Category Icons: Displays category-specific icons for better visualization.
 
-Screenshots
+Getting Started
+Clone the Repository:
+git clone https://github.com/your-username/bmi-calculator.git
+Open index.html in a Web Browser:
+Open the index.html file in your preferred web browser to use the BMI calculator.
+
+Usage
+Input your age, gender, height, and weight.
+Click the "Calculate" button.
+View your BMI, category, and additional information.
 
 
 
+
+
+![Screenshot from 2024-01-21 17-54-01](https://github.com/diyabhowmick/BMI-Insight/assets/116788850/15d9680f-4311-4bb1-b3cd-a7b4f59eab63)
+![Screenshot from 2024-01-21 17-54-25](https://github.com/diyabhowmick/BMI-Insight/assets/116788850/7e2a66e4-5014-439e-a734-61e607065fb5)
 
